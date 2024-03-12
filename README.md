@@ -34,7 +34,7 @@ MIC Cable (take 10 MT cable into your Cina Market!)
 
 This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
 
-
+DOWNLOAD AND USE ONLY FOR PERSONAL USE!
 
 
 
