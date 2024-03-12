@@ -1,6 +1,9 @@
 👋 Hi, I’m @amigamess (TheShark!)
+
 👀 I’m interested in retrocomputing, music, 3D and more...
+
 🌱 I’m currently learning Kicad, FreeCad...
+
 
 # Drum MIC 3D
 Drum Mic HOME MADE 3D for DRUMMER!
