@@ -6,7 +6,7 @@
 
 
 # Drum MIC 3D
-Drum Mic HOME MADE 3D for DRUMMER!
+Drum Mic HOME MADE 3D for DRUMMER, standard 25-27mm Hoop, NO DIE-CAST!
 
 ![3d](https://github.com/amigamess/Drum_MIC_3D/assets/82521152/1e11a4cd-c396-47c0-a0bc-5d51930db998)
 
