@@ -17,11 +17,11 @@ Drum Mic HOME MADE 3D for DRUMMER, standard 25-27mm Hoop, NO DIE-CAST!
 ![03](https://github.com/amigamess/Drum_MIC_3D/assets/82521152/cbc45bdd-188d-4376-a487-72b7dc6a7456)
 
 
-Connector GX12 3P (Aliexpress)
+Connector GX Series GX12 3P (Aliexpress)
 
 ![GX](https://github.com/amigamess/Drum_MIC_3D/assets/82521152/abdb7b7a-16f7-4c13-bf8e-101694328b6d)
 
-XLR Male (if you use sound card)
+XLR Male (if you use sound card) (Aliexpress)
 
 ![XLR](https://github.com/amigamess/Drum_MIC_3D/assets/82521152/c583a787-3f05-46d8-be56-b583e4c14b5f)
 
@@ -31,6 +31,7 @@ SM57 MIC REPLACE (Aliexpress)
 
 MIC Cable (take 10 MT cable into your Cina Market!)
 
+This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
 
 
 
