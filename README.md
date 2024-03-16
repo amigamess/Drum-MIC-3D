@@ -44,6 +44,9 @@ In order to reduce noise, use conductive metal tape (for guitar ecc.)
 
 ![IMG_20240316_161837838_MFNR](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/323027eb-a69f-4c37-83cc-e5d5c3238c71)
 
+![05](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/ae9b6da3-5a55-4da1-86d6-8ae921316d34)
+
+
 DOWNLOAD AND USE ONLY FOR PERSONAL USE!
 
 
