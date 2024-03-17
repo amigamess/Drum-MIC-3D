@@ -34,7 +34,7 @@ MIC Cable (take 10 MT cable into your Cina Market!)
 
 This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
 
-In order to reduce noise, use conductive metal tape (for guitar ecc.)
+In order to noise reduce, use conductive metal tape (for guitar ecc.)
 
 ![06](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/e162ca90-a40b-4393-b681-7b20f7766d7c)
 
