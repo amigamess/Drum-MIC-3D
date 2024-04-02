@@ -18,6 +18,10 @@ Drum Mic HOME MADE 3D for DRUMMERs, standard 25-27mm Hoop, NO DIE-CAST!
 
 ![batteria](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/2656ad0b-077c-4143-ad9a-8699b20bdbd2)
 
+Hot to Wire Mic
+
+![g4891](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/b9a021dc-5f5e-4daf-b5ad-8262c27782bb)
+
 
 Connector GX Series GX12 3P (Aliexpress)
 
