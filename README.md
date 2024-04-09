@@ -38,8 +38,6 @@ SM57 MIC REPLACE (Aliexpress)
 
 MIC Cable (take 10 MT cable into your Cina Market!)
 
-This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
-
 BASS DRUM 3D MIC USE SM57 MIC REPLACE (Aliexpress)
 
 ![05](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/ae9b6da3-5a55-4da1-86d6-8ae921316d34)
@@ -47,6 +45,10 @@ BASS DRUM 3D MIC USE SM57 MIC REPLACE (Aliexpress)
 ![03](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/7addda78-54d7-4fa5-a58b-2d1bf6cfb738)
 
 ![IMG_20240316_161837838_MFNR](https://github.com/amigamess/Drum-MIC-3D/assets/82521152/323027eb-a69f-4c37-83cc-e5d5c3238c71)
+
+
+This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
+DO NOT USE PHANTOM POWER
 
 DOWNLOAD AND USE ONLY FOR PERSONAL USE!
 
