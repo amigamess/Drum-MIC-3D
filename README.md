@@ -49,7 +49,7 @@ BASS DRUM 3D MIC USE SM57 MIC REPLACE (Aliexpress)
 
 This MIC is cheaper and work fine for TOMs, for HOME MADE RECORDING!
 
-Now toy can also download support for basic and cheaper music stand. You can use for cynbals and Hi-Hat!
+Now you can also download support for basic and cheaper music stand. You can use for record cynbals and Hi-Hat!
 
 ![IMG_20240928_192235141_MFNR](https://github.com/user-attachments/assets/c10336c2-ab6c-47d9-9159-6796097dcb0c)
 
